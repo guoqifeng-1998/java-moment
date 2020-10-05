@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9755d9ae-ca24-4e71-87ce-fe77e8e16411" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../java-basic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/java-basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/out/production/java-basic/META-INF/java-basic.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/out/production/java-basic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/out/production/java-basic/com/qfguo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/out/production/java-basic/com/qfguo/week1/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/com/qfguo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/com/qfguo/week1/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/com/qfguo/week2/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/soft2036/study/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/soft2036/study/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/soft2036/study/entity/Hello.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\java-study\code\java-progress\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iSDeqewtwMbG8lRySXvpZh56v1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9755d9ae-ca24-4e71-87ce-fe77e8e16411" name="Default Changelist" comment="" />
+      <created>1601892197657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601892197657</updated>
+      <workItem from="1601892203537" duration="433000" />
+    </task>
+    <task id="LOCAL-00001" summary="java-progress">
+      <created>1601892351617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601892351617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java-progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-progress" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1601892224131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601892224131" />
+    <state x="572" y="117" key="CommitChangelistDialog2" timestamp="1601892347830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601892347830" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1601892355238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601892355238" />
+    <state x="334" y="46" key="new project wizard" timestamp="1601892636452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="46" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601892636452" />
+  </component>
+</project>
