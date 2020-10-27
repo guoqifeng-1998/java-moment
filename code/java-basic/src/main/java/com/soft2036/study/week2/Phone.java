@@ -1,6 +1,6 @@
 package com.soft2036.study.week2;
-
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -11,6 +11,7 @@ import lombok.NoArgsConstructor;
  * @Date 2020/10/12
  **/
 @Data
+@Builder
 @NoArgsConstructor
 @AllArgsConstructor
 public class Phone {

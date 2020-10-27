@@ -10,9 +10,10 @@ import java.util.Date;
  * @Date 2020/10/12
  **/
 //@Data
+//@Builder
 //@AllArgsConstructor
 //@NoArgsConstructor
-//@Builder
+
 public class Book {
     private String name;
     private Integer price;

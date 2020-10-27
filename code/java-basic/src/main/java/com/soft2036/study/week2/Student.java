@@ -1,8 +1,9 @@
 package com.soft2036.study.week2;
-
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
 
 /**
  * @ClassName student
@@ -11,6 +12,7 @@ import lombok.NoArgsConstructor;
  * @Date 2020/10/12
  **/
 @Data
+@Builder
 @AllArgsConstructor
 @NoArgsConstructor
 public class Student {
@@ -18,5 +20,5 @@ public class Student {
     private  String  studentName;
     private  String gender;
     private Phone phone;
-    private Book [] books;
+    private Book[] books;
 }
