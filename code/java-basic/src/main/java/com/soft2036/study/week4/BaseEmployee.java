@@ -1,4 +1,4 @@
- package com.soft2036.study.week4;
+ package main.java.com.soft2036.study.week4;
 
 /**
  * @ClassName Employee

@@ -1,4 +1,4 @@
-package main.java.com.soft2036.study.week2;
+package main.java.com.soft2036.study.week5;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
  * @ClassName Book
  * @Description TODO
  * @Author gqfeng
- * @Date 2020/11/9
+ * @Date 2020/11/2
  **/
 @Data
 @Builder

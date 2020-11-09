@@ -1,8 +1,10 @@
-package com.soft2036.study.week2;
+package main.java.com.soft2036.study.week2;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import java.awt.print.Book;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.soft2036.study.week1;
+package main.java.com.soft2036.study.week1;
 
 /**
  * @ClassName Factorial

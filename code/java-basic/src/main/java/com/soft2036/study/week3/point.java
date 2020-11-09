@@ -1,4 +1,4 @@
-package com.soft2036.study.week3;
+package main.java.com.soft2036.study.week3;
 
 /**
  * @ClassName point
