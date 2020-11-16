@@ -1,7 +1,5 @@
 package main.java.com.soft2036.study.week5;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-
 /**
  * @ClassName TestBook
  * @Description TODO
@@ -22,9 +20,7 @@ public class TestBook {
                 if(b){
                     System.out.println(book.getBookName()+"成功上架");
                 }
-            } catch (ISBNException | BookNameException |PriceException){
-                System.err.println(e.getMessage());
-            } catch (PriceException e) {
+            }catch (PriceException e) {
                 e.printStackTrace();
             } catch (BookNameException e) {
                 e.printStackTrace();
